@@ -88,14 +88,14 @@ margin-left: 30px;
     padding-top: 30px;
     width: 33%;
     float: left;
-    background-color: blue;
+    
 }
 
 #right-about {
     padding-top: 30px;
     width: 33%;
     float: right;
-    background-color: silver;
+    
 
 }
 
@@ -117,3 +117,19 @@ hr { border-top: 1px solid #3a3a3a;
     line-height: 20px;
     clear: both;
 }   margin-bottom: 50px;
+
+.right-about-heading {
+    width:60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-about-heading h2 {
+    text-align: right;
+}
+
+.right-about-heading p {
+    text-align: right;
+}
