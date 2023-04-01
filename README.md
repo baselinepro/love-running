@@ -23,5 +23,7 @@ the following image shows an issue whereby i created two style.css files and was
 another issue i experienced was were i was unable to use the background times image and have the text be displayed infront of it for the meetup times however in order to fix this issue i simply deleted and re added the code in the stylecss file and it was working
 ![image](https://user-images.githubusercontent.com/122219503/229247622-f570be7c-a6bc-4114-8a76-90c742a35261.png)
 
+I acknowledge that this project i have completed is not entirely my own it was part of a walkthrough project whereby i was assisted in creating this love running website through video walkthroughs. 
+
 ![image](https://user-images.githubusercontent.com/122219503/229247728-658fcffd-c049-48f1-b26f-cae712144f5e.png)
 this is an image of me checking my css code with diffchecker to ensure that the code is correct and nothing is missing
